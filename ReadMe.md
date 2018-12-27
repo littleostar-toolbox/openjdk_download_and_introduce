@@ -8,6 +8,12 @@
 
 
 ---
+
+baiduyun download:
+  - https://pan.baidu.com/s/1r9O83OZ5K1i1jpOdnTsKlg --> 8s5j
+
+---
+---
   - java-1.8.0-openjdk-1.8.0.191-1.b12.ojdkbuild.windows.x86-zip
     - [java-1.8.0-openjdk-1.8.0.191-1.b12.ojdkbuild.windows.x86-zip.7z.001](https://github.com/littleostar-toolbox/openjdk_download_and_introduce/raw/master/files/_7z/java-1.8.0-openjdk-1.8.0.191-1.b12.ojdkbuild.windows.x86-zip.7z.001)
 
@@ -59,9 +65,6 @@
 
     - [zulu8.33.0.1-jdk8.0.192-win_x64-zip.7z.002](https://github.com/littleostar-toolbox/openjdk_download_and_introduce/raw/master/files/_7z/zulu8.33.0.1-jdk8.0.192-win_x64-zip.7z.002)
 
-
-
-新建文本文档.txt just nothing
 
 ---
 
