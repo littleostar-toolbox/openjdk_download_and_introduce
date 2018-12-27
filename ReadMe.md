@@ -3,10 +3,8 @@
 
 2019.1 later maybe the jdk not free( need subscribe jdk). so use openjdk.
 
----
----
 
-
+---
 ---
 
 baiduyun download:
@@ -66,6 +64,7 @@ baiduyun download:
     - [zulu8.33.0.1-jdk8.0.192-win_x64-zip.7z.002](https://github.com/littleostar-toolbox/openjdk_download_and_introduce/raw/master/files/_7z/zulu8.33.0.1-jdk8.0.192-win_x64-zip.7z.002)
 
 
+---
 ---
 
 end
