@@ -7,8 +7,8 @@
 ---
 ---
 
-baiduyun download:
-  - https://pan.baidu.com/s/1YLMTXVdDZCLPm_ymp64RQQ i5ta
+baiduyun download: (Software/software_openjdk_files_dir_for_dl)
+  - https://pan.baidu.com/s/1KfwNEf80DIa41PT_x6ibVA eame
 
 ---
 ---
