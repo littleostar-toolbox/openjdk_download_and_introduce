@@ -6,12 +6,6 @@
 
 ---
 ---
-
-baiduyun download: (Software/software_openjdk_files_dir_for_dl)
-  - https://pan.baidu.com/s/1KfwNEf80DIa41PT_x6ibVA eame
-
----
----
   - java-1.8.0-openjdk-1.8.0.191-1.b12.ojdkbuild.windows.x86-zip
     - [java-1.8.0-openjdk-1.8.0.191-1.b12.ojdkbuild.windows.x86-zip.7z.001](https://github.com/littleostar-toolbox/openjdk_download_and_introduce/raw/master/files/_7z/java-1.8.0-openjdk-1.8.0.191-1.b12.ojdkbuild.windows.x86-zip.7z.001)
 
